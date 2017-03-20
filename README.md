@@ -1,4 +1,6 @@
 # search-sort-and-pagination-angularjs
+VERY GOOD TUTORIAL: IMPLEMENTED AND TESTED FOR ME
+
 Implement searching in angularjs, sorting in angularjs and pagination in angularjs in the easiest way possible.
 
 Download --> Click on Download as zip, on your right to download the code.
